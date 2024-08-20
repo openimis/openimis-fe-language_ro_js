@@ -3282,5 +3282,9 @@
     "workerVoucher.additionalFields.activity_place": "Tipul activității",
     "workerVoucher.additionalFields.negotiated_remuneration": "Remunerația negociată",
     "resetFilterTooltip": "Resetați criteriile de căutare",
-    "refreshFilterTooltip": "Caută din nou"
+    "refreshFilterTooltip": "Caută din nou",
+    "core.LanguageQuickPicker.dialog.title": "Confirmă limba",
+    "core.LanguageQuickPicker.dialog.message": "Ești pe cale să schimbi limba în {language}. Vrei să continui?",
+    "core.LanguageQuickPicker.dialog.confirm": "Confirmă",
+    "core.LanguageQuickPicker.dialog.cancel": "Anulează"
 }
