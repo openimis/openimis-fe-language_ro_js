@@ -3239,7 +3239,7 @@
     "workerVoucher.assign.confirmation": "Confirm atribuirea voucherului, recunoscând că am citit și sunt de acord cu termenii și politicile.",
     "workerVoucher.vouchers.required": "Trebuie să completați toate câmpurile obligatorii pentru a continua",
     "workerVoucher.WorkerMultiplePicker.placeholder": "Caută lucrător",
-    "workerVoucher.WorkerMultiplePicker.underThreshold": "Introduceți cel puțin 3 cifre din IDNP",
+    "workerVoucher.WorkerMultiplePicker.underThreshold": "Introduceți cel puțin 3 caractere pentru a începe căutarea",
     "workerVoucher.WorkerMultiplePicker.noOptions": "Nu a fost găsit niciun rezultat",
     "workerVoucher.WorkerMultiplePicker.checkbox.label": "Afișează numai lucrătorii cu care am lucrat anterior",
     "workerVoucher.WorkerDateRangePicker.startDate": "Data de început",
