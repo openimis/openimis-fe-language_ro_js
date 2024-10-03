@@ -3297,5 +3297,10 @@
     "workerVoucher.WorkerMConnectAddForm.search": "Căutare",
     "workerVoucher.WorkerMConnectAddForm.notFound": "Lucrătorul nu a fost găsit. Asigurați-vă că ID-ul național este corect și încercați din nou.",
     "workerVoucher.WorkerMConnectAddForm.tip": "Ca angajator, puteți adăuga un lucrător în sistem căutând ID-ul național al lucrătorului. Odată ce lucrătorul este găsit, puteți salva formularul și adăuga lucrătorul în lista dumneavoastră de lucrători.",
-    "workerVoucher.WorkerMConnectAddForm.detail": "Introduceți ID-ul național al lucrătorului pentru a obține detaliile acestuia. Asigurați-vă că ID-ul național este corect."
+    "workerVoucher.WorkerMConnectAddForm.detail": "Introduceți ID-ul național al lucrătorului pentru a obține detaliile acestuia. Asigurați-vă că ID-ul național este corect.",
+    "workerVoucher.menu.voucherAcquirementSuccess": "Achiziționarea Voucherului a avut succes",
+    "workerVoucher.menu.voucherAssignmentSuccess": "Alocarea Voucherului a avut succes",
+    "workerVoucher.VoucherAcquirementForm.genericVoucherConfirmation": "Ați achiziționat cu succes {quantity} voucher(e). Voucherele vor fi gata pentru alocare odată ce plata este confirmată. Gateway-ul de plată s-a deschis într-o filă nouă. Dacă ați închis-o din greșeală, vă rugăm să faceți clic pe „Plătește cu MPay” din vizualizarea Facturii pentru a o redeschide.",
+    "workerVoucher.VoucherAcquirementForm.specificVoucherConfirmation": "Ați achiziționat cu succes vouchere pentru lucrătorii selectați. Voucherele vor fi gata pentru alocare odată ce plata este confirmată. Gateway-ul de plată s-a deschis într-o filă nouă. Dacă ați închis-o din greșeală, vă rugăm să faceți clic pe „Plătește cu MPay” din vizualizarea Facturii pentru a o redeschide.",
+    "workerVoucher.VoucherAssignmentForm.assignmentConfirmation": "Ați alocat cu succes voucher(e) lucrătorilor selectați."
 }
