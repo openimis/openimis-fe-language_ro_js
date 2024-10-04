@@ -3302,5 +3302,7 @@
     "workerVoucher.menu.voucherAssignmentSuccess": "Alocarea Voucherului a avut succes",
     "workerVoucher.VoucherAcquirementForm.genericVoucherConfirmation": "Ați achiziționat cu succes {quantity} voucher(e). Voucherele vor fi gata pentru alocare odată ce plata este confirmată. Gateway-ul de plată s-a deschis într-o filă nouă. Dacă ați închis-o din greșeală, vă rugăm să faceți clic pe „Plătește cu MPay” din vizualizarea Facturii pentru a o redeschide.",
     "workerVoucher.VoucherAcquirementForm.specificVoucherConfirmation": "Ați achiziționat cu succes vouchere pentru lucrătorii selectați. Voucherele vor fi gata pentru alocare odată ce plata este confirmată. Gateway-ul de plată s-a deschis într-o filă nouă. Dacă ați închis-o din greșeală, vă rugăm să faceți clic pe „Plătește cu MPay” din vizualizarea Facturii pentru a o redeschide.",
-    "workerVoucher.VoucherAssignmentForm.assignmentConfirmation": "Ați alocat cu succes voucher(e) lucrătorilor selectați."
+    "workerVoucher.VoucherAssignmentForm.assignmentConfirmation": "Ați alocat cu succes voucher(e) lucrătorilor selectați.",
+    "core.LoginPage.backButton": "Înapoi",
+    "moldovaLanding.LoginButtonLabel": "Autentificare"
 }
