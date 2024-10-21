@@ -3348,5 +3348,9 @@
     "workerVoucher.UploadWorkerModal.workerUploadError": "Încărcarea lucrătorilor a eșuat. Te rugăm să te asiguri că conținutul fișierului este corect și să încerci din nou.",
     "workerVoucher.UploadWorkerModal.workerUploadWarning": "Unii lucrători au fost omisi. Poți descărca lista cu lucrătorii omisi făcând click pe butonul de mai jos.",
     "workerVoucher.UploadWorkerModal.downloadWorkersWithError": "Descarcă Erori și închide",
-    "core.LoginPage.loginCaption": "Autentificare prin"
+    "core.LoginPage.loginCaption": "Autentificare prin",
+    "workerVoucher.GroupDetailsPage.mutation.success": "Modificările tale au fost salvate cu succes.",
+    "workerVoucher.GroupDetailsPage.mutation.error": "Ceva nu a mers bine la salvarea modificărilor. {detail}",
+    "workerVoucher.GroupDetailsPage.delete.success": "Grupul a fost șters cu succes.",
+    "workerVoucher.GroupDetailsPage.delete.error": "Ceva nu a mers bine la ștergerea grupului. {detail}"
 }
