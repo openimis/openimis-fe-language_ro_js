@@ -1799,6 +1799,7 @@
     "emptyLabel": " ",
     "any": "Oricare",
     "editButtonTooltip": "Editează",
+    "viewDetailsButtonTooltip": "Vezi detalii",
     "deleteButtonTooltip": "Șterge",
     "dialog": {
         "create": "Creează",
@@ -3312,7 +3313,9 @@
     "workerVoucher.WorkerSearcherSelectActions.dialog.abandon": "Anulează",
     "workerVoucher.menu.groupList": "Grupuri",
     "workerVoucher.group.new": "Grup Nou",
-    "workerVoucher.group.edit": "Editează Grupul {name}",
+    "workerVoucher.group.edit": "Editează Grupul",
+    "workerVoucher.save": "Salvează",
+    "workerVoucher.add": "Adaugă",
     "workerVoucher.tooltip.edit": "Editează",
     "workerVoucher.GroupsPage.addTooltip": "Adaugă Grup",
     "workerVoucher.GroupSearcher.groupName": "Numele Grupului",
