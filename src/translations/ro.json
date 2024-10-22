@@ -3251,7 +3251,7 @@
     "workerVoucher.WorkerDateRangePicker.dateRange": "Perioada de valabilitate",
     "workerVoucher.WorkerDateRangePicker.dateRanges": "Perioada de valabilitate a voucherelor: *",
     "workerVoucher.WorkerDateRangePicker.selectDate": "Selectați Data",
-    "workerVoucher.WorkerDateRangePicker.noRanges": "Nu au fost înregistrate intervale de perioade",
+    "workerVoucher.WorkerDateRangePicker.noRanges": "Nu există perioade de valabilitate înregistrate. Completați datele de început și sfârșit și faceți clic pe butonul de confirmare pentru a adăuga o nouă perioadă.",
     "workerVoucher.WorkerDateRangePicker.notAvailable": "NU ESTE DISPONIBIL",
     "workerVoucher.unassigned": "NEATRIBUIT",
     "workerVoucher.VoucherAcquirementPaymentModal.title": "Rezumatul achiziției voucherului",
@@ -3356,5 +3356,6 @@
     "workerVoucher.GroupDetailsPage.mutation.success": "Modificările tale au fost salvate cu succes.",
     "workerVoucher.GroupDetailsPage.mutation.error": "Ceva nu a mers bine la salvarea modificărilor. {detail}",
     "workerVoucher.GroupDetailsPage.delete.success": "Grupul a fost șters cu succes.",
-    "workerVoucher.GroupDetailsPage.delete.error": "Ceva nu a mers bine la ștergerea grupului. {detail}"
+    "workerVoucher.GroupDetailsPage.delete.error": "Ceva nu a mers bine la ștergerea grupului. {detail}",
+    "core.InfoButton.tooltip": "Mai multe informații"
 }
