@@ -3360,5 +3360,7 @@
     "core.InfoButton.tooltip": "Mai multe informații",
     "workerVoucher.WorkerDateRangePicker.selectDate.moreInfo": "Definiți perioada de valabilitate pentru voucherele lucrătorilor selectați. Puteți adăuga mai multe perioade de valabilitate, dar acestea nu trebuie să se suprapună. Mai întâi, setați perioada, apoi confirmați folosind butonul de mai jos.",
     "workerVoucher.VoucherAssignmentForm.form.moreInfo": "Definiți lucrătorii cărora doriți să le atribuiți voucherele nepersonalizate. Puteți atribui vouchere mai multor lucrători simultan. Mai întâi, selectați lucrătorii, apoi definiți perioadele în care voucherele vor fi valabile. Confirmați atribuirea folosind butonul din colțul din dreapta sus.",
-    "workerVoucher.WorkerImportDialog.moreInfo": "Prin utilizarea acestei funcționalități, puteți importa imediat lucrătorii dumneavoastră. Puteți alege să importați toți lucrătorii, lucrătorii cu care ați lucrat, lucrătorii din ziua precedentă sau lucrătorii dintr-un anumit grup. După ce ați selectat opțiunea, faceți clic pe butonul Import pentru a continua."
+    "workerVoucher.WorkerImportDialog.moreInfo": "Prin utilizarea acestei funcționalități, puteți importa imediat lucrătorii dumneavoastră. Puteți alege să importați toți lucrătorii, lucrătorii cu care ați lucrat, lucrătorii din ziua precedentă sau lucrătorii dintr-un anumit grup. După ce ați selectat opțiunea, faceți clic pe butonul Import pentru a continua.",
+    "workerVoucher.workerImport.groupOfWorkers": "Adaugă lucrători din grupul respectiv",
+    "workerVoucher.GroupPicker.label": "Grup"
 }
