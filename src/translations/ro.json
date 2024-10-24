@@ -3362,5 +3362,15 @@
     "workerVoucher.VoucherAssignmentForm.form.moreInfo": "Definiți lucrătorii cărora doriți să le atribuiți voucherele nepersonalizate. Puteți atribui vouchere mai multor lucrători simultan. Mai întâi, selectați lucrătorii, apoi definiți perioadele în care voucherele vor fi valabile. Confirmați atribuirea folosind butonul din colțul din dreapta sus.",
     "workerVoucher.WorkerImportDialog.moreInfo": "Prin utilizarea acestei funcționalități, puteți importa imediat lucrătorii dumneavoastră. Puteți alege să importați toți lucrătorii, lucrătorii cu care ați lucrat, lucrătorii din ziua precedentă sau lucrătorii dintr-un anumit grup. După ce ați selectat opțiunea, faceți clic pe butonul Import pentru a continua.",
     "workerVoucher.workerImport.groupOfWorkers": "Adaugă lucrători din grupul respectiv",
-    "workerVoucher.GroupPicker.label": "Grup"
+    "workerVoucher.GroupPicker.label": "Grup",
+    "workerVoucher.deleteWorker.success": "Lucrătorul(i) a(u) fost șters cu succes.",
+    "workerVoucher.deleteWorker.error": "Ceva a mers prost la ștergerea lucrătorului(i). {detail}",
+    "workerVoucher.saveWorker.success": "Lucrătorul a fost salvat cu succes.",
+    "workerVoucher.saveWorker.error": "Ceva a mers prost la salvarea lucrătorului.",
+    "workerVoucher.PublicVoucherDetailsPage.title": "Verificare Voucher Public",
+    "workerVoucher.PublicVoucherDetailsPage.backButton": "Înapoi",
+    "workerVoucher.PublicVoucherDetailsPage.noVoucherUuid": "UUID-ul voucherului nu a fost furnizat.",
+    "workerVoucher.PublicVoucherDetailsPage.voucherNotFound": "Voucherul nu a fost găsit.",
+    "workerVoucher.PublicVoucherDetailsPage.invalidVoucherFound": "Voucherul nu mai este valabil. A fost valabil la data de {assignedDate} la angajatorul {employer}.",
+    "workerVoucher.PublicVoucherDetailsPage.voucherFound": "Voucherul a fost găsit. Este valabil la data de {assignedDate} la angajatorul {employer}."
 }
